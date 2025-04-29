@@ -124,7 +124,20 @@
   <a class="call-button" href="tel:+994552424275">Zəng et: +994 55 242 42 75</a>
 
   <div class="striped"></div>
-
+<section style="padding: 20px; max-width: 800px; margin: auto; text-align: center;">
+  <h2>Haqqımızda</h2>
+  <p>
+    <strong>Tez Yardım Evakuator</strong> olaraq, Gəncə və ətraf bölgələrdə operativ və etibarlı evakuator xidməti təqdim edirik.
+    Fəaliyyətimiz yeni olsa da, məqsədimiz sürücülərə ehtiyac anında vaxtında və təhlükəsiz şəkildə yardım etməkdir.
+  </p>
+  <p>
+    Biz sizin güvəninizə layiq olmaq üçün çalışırıq. Sürətli reaksiya, münasib qiymət və peşəkar yanaşma ilə hər zaman xidmətinizdəyik.
+    Xidmətimiz günün 24 saatı aktivdir.
+  </p>
+  <p>
+    Əgər avtomobiliniz yolda qalıbsa və yardıma ehtiyacınız varsa – biz buradayıq. Sadəcə zəng edin!
+  </p>
+</section>
   <footer>
     © 2025 Tez Yardım Evakuator - Bütün hüquqlar qorunur.
   </footer>
