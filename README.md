@@ -147,7 +147,7 @@
   <p>
     Bizi Instagram-da izləyin: 
     <a href="https://www.instagram.com/evakuator_gence020/" target="_blank">
-  <img src="images/instagram.png" alt="Instagram" style="height: 30px;">
+  <img src="instagram.png" alt="Instagram" style="height: 30px;">
 </a>
   </p>
 </footer>
