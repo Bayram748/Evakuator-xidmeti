@@ -104,6 +104,8 @@
     <img class="slide" src="IMG-20250327-WA0003.jpg" alt="Evakuator 3"> 
     <img class="slide" src="IMG-20250327-WA0006.jpg" alt="Evakuator 4">
     <img class="slide" src="IMG-20250327-WA0008.jpg" alt="Evakuator 5">
+    <img class="slide" src="IMG-20250327-WA0004.jpg" alt="Evakuator 6">
+    <img class="slide" src="IMG-20250425-WA0024.jpg" alt="Evakuator 7">
   </div>
 
   <div class="services">
