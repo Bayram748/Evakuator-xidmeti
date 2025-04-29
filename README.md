@@ -142,7 +142,7 @@
     © 2025 Tez Yardım Evakuator - Bütün hüquqlar qorunur.
   </footer>
 <footer>
-  <p>© 2025 Evakuator Xidməti</p>
+  
   <p>
     Bizi Instagram-da izləyin: 
     <a href="https://www.instagram.com/evakuator_gence020/" target="_blank">@evakuator_gence020</a>
