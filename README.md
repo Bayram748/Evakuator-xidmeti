@@ -100,8 +100,10 @@
 
   <div class="slideshow-container">
     <img class="slide" src="IMG-20250327-WA0001.jpg" alt="Evakuator 1">
-    <img class="slide" src="IMG-20250327-WA0002.jpg" alt="Evakuator 2">
-    <img class="slide" src="IMG-20250327-WA0003.jpg" alt="Evakuator 3">
+    <img class="slide" src="IMG-20250327-WA0005.jpg" alt="Evakuator 2">
+    <img class="slide" src="IMG-20250327-WA0003.jpg" alt="Evakuator 3"> 
+    <img class="slide" src="IMG-20250327-WA0006.jpg" alt="Evakuator 4">
+    <img class="slide" src="IMG-20250327-WA0008.jpg" alt="Evakuator 5">
   </div>
 
   <div class="services">
