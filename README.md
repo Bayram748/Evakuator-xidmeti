@@ -146,7 +146,9 @@
   
   <p>
     Bizi Instagram-da izləyin: 
-    <a href="https://www.instagram.com/evakuator_gence020/" target="_blank">@evakuator_gence020</a>
+    <a href="https://www.instagram.com/evakuator_gence020/" target="_blank">
+  <img src="images/instagram.png" alt="Instagram" style="height: 30px;">
+</a>
   </p>
 </footer>
   <script>
@@ -161,7 +163,7 @@
       slideIndex++;
       if (slideIndex > slides.length) {slideIndex = 1}    
       slides[slideIndex-1].style.display = "block";  
-      setTimeout(showSlides, 3000); // hər 3 saniyədə dəyişir
+      setTimeout(showSlides, 3000); // hər 5 saniyədə dəyişir
     }
   </script>
 
