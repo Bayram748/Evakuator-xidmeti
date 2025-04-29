@@ -88,7 +88,11 @@
   </style>
 </head>
 <body>
+<body>
 
+<header style="text-align: center; padding: 20px;">
+  <img src="Evakuator.png" alt="Evakuator Xidməti Loqosu" style="height: 80px;">
+</header>
   <header>
     <h1>Tez Yardım Evakuator</h1>
     <p>Gəncə və ətrafında 24/7 xidmətinizdəyik</p>
