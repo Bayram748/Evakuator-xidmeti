@@ -118,6 +118,7 @@
       <li>24 saat evakuator xidməti</li>
       <li>Gəncə və ətraf rayonlara operativ xidmət</li>
       <li>Sərfəli qiymətlərlə avtomobil daşınması</li>
+      <li>Düz platforma ilə müxtəlif yüklərin rahat daşınılması</li>
     </ul>
   </div>
 
