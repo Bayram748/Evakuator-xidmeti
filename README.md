@@ -91,7 +91,7 @@
 <body>
 
 <header style="text-align: center; padding: 20px;">
-  <img src="Evakuator.png" alt="Evakuator Xidməti Loqosu" style="height: 40px;">
+  <img src="Evakuator.png" alt="Evakuator Xidməti Loqosu" style="height: 100px;">
 </header>
   <header>
     <h1>Tez Yardım Evakuator</h1>
