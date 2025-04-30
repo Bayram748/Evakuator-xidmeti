@@ -129,7 +129,7 @@
   <h2>Haqqımızda</h2>
   <p>
     <strong>Tez Yardım Evakuator</strong> olaraq, Gəncə və ətraf bölgələrdə operativ və etibarlı evakuator xidməti təqdim edirik.
-    Fəaliyyətimiz yeni olsa da, məqsədimiz sürücülərə ehtiyac anında vaxtında və təhlükəsiz şəkildə yardım etməkdir.
+    Məqsədimiz sürücülərə ehtiyac anında vaxtında və təhlükəsiz şəkildə yardım etməkdir.
   </p>
   <p>
     Biz sizin güvəninizə layiq olmaq üçün çalışırıq. Sürətli reaksiya, münasib qiymət və peşəkar yanaşma ilə hər zaman xidmətinizdəyik.
