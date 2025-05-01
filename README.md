@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tez Yardım Evakuator</title>
+   <title>Evakuator xidmeti</title>
+  <title>Evakuasiya</title>
+  <title>Yük daşıma/konteyner daşıma</title>
   <title>Evakuator Xidməti  | 24/7 Peşəkar və Sürətli Xidmət</title>
 <meta name="description" content="Gəncə və ətrafında 7/24 münasib qiymətə evakuator xidməti. Zəng edin və dərhal yardım alın. Sərfəli və etibarlı evakuasiya.">
   <style>
