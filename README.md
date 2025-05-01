@@ -1,21 +1,6 @@
 
 <html lang="az">
   <head>
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Evakuator Xidməti",
-  "url": "https://www.evakuatorxidmeti.com",
-  "logo": "https://www.evakuatorxidmeti.com/logo.png",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+994552424275",
-    "contactType": "Customer Service"
-  }
-}
-</script>
-</head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tez Yardım Evakuator</title>
