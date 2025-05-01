@@ -6,7 +6,9 @@
   <title>Tez Yardım Evakuator</title>
    <title>Evakuator xidmeti</title>
   <title>Evakuasiya</title>
+  <title>Evakuator xidmeti Gəncə</title>
   <title>Yük daşıma/konteyner daşıma</title>
+  <title>Qəza daşınması</title>
   <title>Evakuator Xidməti  | 24/7 Peşəkar və Sürətli Xidmət</title>
 <meta name="description" content="Gəncə və ətrafında 7/24 münasib qiymətə evakuator xidməti. Zəng edin və dərhal yardım alın. Sərfəli və etibarlı evakuasiya.">
   <style>
