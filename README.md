@@ -11,15 +11,6 @@
   <title>Qəza daşınması</title>
   <title>Evakuator Xidməti  | 24/7 Peşəkar və Sürətli Xidmət</title>
 <meta name="description" content="Gəncə və ətrafında 7/24 münasib qiymətə evakuator xidməti. Zəng edin və dərhal yardım alın. Sərfəli və etibarlı evakuasiya.">
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Evakuator Xidməti",
-  "url": "https://www.evakuatorxidmeti.com",
-  "logo": "https://www.evakuatorxidmeti.com/logo.png"
-}
-</script>
   <style>
     body {
       margin: 0;
