@@ -1,6 +1,46 @@
 
 <html lang="az">
   <head>
+    <head>
+  <meta charset="UTF-8" />
+  <title>Gəncə Evakuator Xidməti | 24/7 Yükdaşıma və Avtomobil Daşıma</title>
+  <meta name="description" content="Gəncə və ətraf bölgələrdə 24/7 evakuator xidməti. Sürətli, sərfəli və peşəkar yükdaşıma. Zəng edin: 055 242 42 75">
+  <meta name="keywords" content="
+    gəncə evakuator,
+    evakuator xidməti,
+    evakuator gəncə,
+    yükdaşıma gəncə,
+    055 242 42 75 evakuator,
+    maşın daşıma xidməti,
+    avtomobil evakuator,
+    təcili evakuator,
+    ən yaxın evakuator,
+    evakuator qiymətləri,
+    evakuator sifarişi,
+    gəncə avtomobil daşıma,
+    evakuator 24/7,
+    evakuator nömrəsi gəncə,
+    evakuator xidməti gəncə,
+    maşın evakuatoru,
+    avtomobil təxliyəsi,
+    avtomobil köməyi,
+    gəncə maşın evakuator
+  ">
+  <meta name="author" content="Evakuator Xidməti Gəncə">
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://evakuatorxidmeti.github.io" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Logo və favicon -->
+  <link rel="icon" href="/logo.png" type="image/png" />
+
+  <!-- Sosial şəbəkə üçün (Open Graph) -->
+  <meta property="og:title" content="Gəncə Evakuator Xidməti - 055 242 42 75" />
+  <meta property="og:description" content="Gəncədə 24 saat fəaliyyət göstərən evakuator və yükdaşıma xidməti." />
+  <meta property="og:image" content="https://evakuatorxidmeti.github.io/logo.png" />
+  <meta property="og:url" content="https://evakuatorxidmeti.github.io" />
+  <meta property="og:type" content="website" />
+</head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tez Yardım Evakuator</title>
