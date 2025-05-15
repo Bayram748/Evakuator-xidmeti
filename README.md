@@ -24,6 +24,8 @@
     evakuator gəncə,
     evakuator xıdmatı,
     evakuator xıdmetı,
+    эвакуатор,
+    эвакуатор баку,
     .
     avto 
     avtoqeza,
