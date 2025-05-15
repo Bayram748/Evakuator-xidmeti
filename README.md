@@ -22,6 +22,13 @@
     evakator xidmeti,
     1 evakuator,
     evakuator gəncə,
+    evakuator xıdmatı,
+    evakuator xıdmetı,
+    .
+    avto 
+    avtoqeza,
+    evakuator, 
+    qeza xidmeti,
     yükdaşıma gəncə,
     055 242 42 75 evakuator,
     maşın daşıma xidməti,
