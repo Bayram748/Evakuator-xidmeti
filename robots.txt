@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bayram748.github.io/Evakuator-xidmeti/sitemap.xml
