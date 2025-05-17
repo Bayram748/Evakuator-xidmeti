@@ -1,2 +1,2 @@
-User-agent: * Allow: / Sitemap: https://evakuator-xidmeti.github.io/sitemap.xml
+User-agent: * Allow: / Sitemap: https://evakuatorxidmeti.github.io/sitemap.xml
 
