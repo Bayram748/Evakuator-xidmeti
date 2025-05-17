@@ -1,6 +1,7 @@
 
 <html lang="az">
 <head>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
   <meta charset="UTF-8">
   <meta name="language" content="az">
   <meta http-equiv="Content-Language" content="az">
