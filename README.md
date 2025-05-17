@@ -1,6 +1,22 @@
 
 <html lang="az">
 <head>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Evakuator Xidməti Gəncə",
+  "image": "https://www.evakuatorxidmeti.com/logo.png",
+  "telephone": "+994552424275",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Gəncə",
+    "addressCountry": "AZ"
+  },
+  "url": "https://www.evakuatorxidmeti.com",
+  "description": "Gəncədə 24 saat evakuator və yükdaşıma xidməti."
+}
+</script>
   <head>
   <meta charset="UTF-8" />
   <title>Gəncə Evakuator Xidməti | 24/7 Yükdaşıma və Avtomobil Daşıma</title>
