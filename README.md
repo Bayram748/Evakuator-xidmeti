@@ -1,5 +1,6 @@
 
 <html lang="az">
+  <head>
   <meta charset="UTF-8" />
   <title>Gəncə Evakuator Xidməti | 24/7 Yükdaşıma və Avtomobil Daşıma</title>
   <meta name="description" content="Gəncə və ətraf bölgələrdə 24/7 evakuator xidməti. Sürətli, sərfəli və peşəkar yükdaşıma. Zəng edin: 055 242 42 75">
@@ -153,7 +154,7 @@
       );
     }
   </style>
-</head>
+<head>
 <body>
 <body>
 
