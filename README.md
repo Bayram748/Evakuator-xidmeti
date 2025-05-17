@@ -1,6 +1,9 @@
 
 <html lang="az">
   <head>
+  <meta name="google-site-verification" content="googlee34c9b45f72a30a5.html" />
+  <title>Evakuator Xidməti</title>
+  </head>
     <head>
   <meta charset="UTF-8" />
   <title>Gəncə Evakuator Xidməti | 24/7 Yükdaşıma və Avtomobil Daşıma</title>
