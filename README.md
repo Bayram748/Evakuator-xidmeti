@@ -1,6 +1,10 @@
 
 <html lang="az">
 <head>
+  <meta charset="UTF-8">
+  <meta name="language" content="az">
+  <meta http-equiv="Content-Language" content="az">
+  <title>Evakuator Xidməti Gəncə</title>
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
