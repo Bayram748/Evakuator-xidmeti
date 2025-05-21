@@ -68,6 +68,7 @@
     avtomobil təxliyəsi,
     avtomobil köməyi,
     gəncə maşın evakuator
+    Qarabağ evakuator xidmeti 
   ">
   <meta name="author" content="Evakuator Xidməti Gəncə">
   <meta name="robots" content="index, follow" />
@@ -206,7 +207,7 @@
     <h2>Xidmətlərimiz</h2>
     <ul>
       <li>24 saat evakuator xidməti</li>
-      <li>Gəncə və ətraf rayonlara operativ xidmət</li>
+      <li>Gəncə və ətraf bölgələrdə və Qarabağda operativ xidmət</li>
       <li>Sərfəli qiymətlərlə avtomobil daşınması</li>
       <li>Düz platforma ilə müxtəlif yüklərin rahat daşınılması</li>
     </ul>
@@ -218,7 +219,7 @@
 <section style="padding: 20px; max-width: 800px; margin: auto; text-align: center;">
   <h2>Haqqımızda</h2>
   <p>
-    <strong>Tez Yardım Evakuator</strong> olaraq, Gəncə və ətraf bölgələrdə operativ və etibarlı evakuator xidməti təqdim edirik.
+    <strong>Tez Yardım Evakuator</strong> olaraq, Gəncə və ətraf bölgələrdə və Qarabağda operativ və etibarlı evakuator xidməti təqdim edirik.
     Məqsədimiz sürücülərə ehtiyac anında vaxtında və təhlükəsiz şəkildə yardım etməkdir.
   </p>
   <p>
