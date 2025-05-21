@@ -186,7 +186,7 @@
 </header>
   <header>
     <h1>Tez Yardım Evakuator</h1>
-    <p>Gəncə və ətrafında 24/7 xidmətinizdəyik</p>
+    <p>Gəncə və ətraf bölgələrdə və Qarabağda 24/7 xidmətinizdəyik</p>
   </header>
 
   <div class="banner">
