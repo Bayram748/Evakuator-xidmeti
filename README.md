@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="language" content="az">
   <meta http-equiv="Content-Language" content="az">
-  <title>Evakuator Xidməti Gəncə</title>
+  <title>Evakuator Xidməti Gəncə və Qarabağ</title>
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -19,7 +19,7 @@
     "addressCountry": "AZ"
   },
   "url": "https://www.evakuatorxidmeti.com",
-  "description": "Gəncədə 24 saat evakuator və yükdaşıma xidməti."
+  "description": "Gəncə və ətrafında eyni zamanda Qarabağda 24 saat evakuator və yükdaşıma xidməti."
 }
 </script>
   <head>
