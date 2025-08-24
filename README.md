@@ -201,6 +201,7 @@
     <img class="slide" src="IMG-20250327-WA0008.jpg" alt="Evakuator 5">
     <img class="slide" src="IMG-20250327-WA0004.jpg" alt="Evakuator 6">
     <img class="slide" src="IMG-20250425-WA0024.jpg" alt="Evakuator 7">
+    <img class="slide" src="IMG-20250609-WA0005.jpg" alt="Evakuator 8">
   </div>
 
   <div class="services">
