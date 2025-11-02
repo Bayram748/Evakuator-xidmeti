@@ -197,7 +197,7 @@
   <img src="IMG-20250327-WA0001.jpg" alt="">
   <img src="IMG-20250327-WA0005.jpg" alt="">
   <img src="IMG-20251028-WA0066.jpg" alt="">
-  <img src="sekil4.jpg" alt="">
+  <img src="IMG-20251031-WA0177.jpg" alt="">
 </div>
 .gallery img {
   width: 100% !important;       
