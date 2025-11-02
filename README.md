@@ -186,7 +186,7 @@
 </header>
   <header>
     <h1>Tez Yardım Evakuator</h1>
-    <p>Gəncə və ətraf bölgələrdə və Qarabağda 24/7 xidmətinizdəyik</p>
+    <p>Gəncə və ətraf bölgələrdə 24/7 xidmətinizdəyik</p>
   </header>
 
   <div class="banner">
@@ -207,8 +207,9 @@
   <div class="services">
     <h2>Xidmətlərimiz</h2>
     <ul>
-      <li>24 saat evakuator xidməti</li>
-      <li>Gəncə və ətraf bölgələrdə və Qarabağda operativ xidmət</li>
+      <li>24 saat Evakuator və Forklift xidməti</li>
+      <li>Gəncə və ətraf bölgələrdə operativ xidmət</li>
+      <li>Transpalet icarəsi</li>
       <li>Sərfəli qiymətlərlə avtomobil daşınması</li>
       <li>Düz platforma ilə müxtəlif yüklərin rahat daşınılması</li>
     </ul>
