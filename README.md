@@ -192,12 +192,7 @@
   <div class="banner">
     Sürətli və etibarlı evakuator xidməti!
   </div>
-<!DOCTYPE html>
-<html lang="az">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>2x2 Şəkil Düzülüşü</title>
+<title>Xidmətlərimiz</title>
 <style>
   body {
     font-family: Arial, sans-serif;
