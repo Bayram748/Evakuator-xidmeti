@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="language" content="az">
   <meta http-equiv="Content-Language" content="az">
-  <title>Evakuator Xidməti Gəncə və Qarabağ</title>
+  <title>Evakuator Xidməti Gəncə və ətraf bölgələrdə</title>
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -19,12 +19,12 @@
     "addressCountry": "AZ"
   },
   "url": "https://www.evakuatorxidmeti.com",
-  "description": "Gəncə və ətrafında eyni zamanda Qarabağda 24 saat evakuator və yükdaşıma xidməti."
+  "description": "Gəncə və ətrafında 7/24 evakuator,yükdaşıma və forklift xidməti."
 }
 </script>
   <head>
   <meta charset="UTF-8" />
-  <title>Gəncə Evakuator Xidməti | 24/7 Yükdaşıma və Avtomobil Daşıma</title>
+  <title>Gəncə Evakuator Xidməti | 24/7 Yükdaşıma, Yükləmə-yük boşaltma və Avtomobil Daşıma</title>
   <meta name="description" content="Gəncə və ətraf bölgələrdə 24/7 evakuator xidməti. Sürətli, sərfəli və peşəkar yükdaşıma. Zəng edin: 055 242 42 75">
   <meta name="keywords" content="
     gəncə evakuator,
