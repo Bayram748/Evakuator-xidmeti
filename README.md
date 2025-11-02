@@ -199,6 +199,15 @@
   <img src="IMG-20251028-WA0066.jpg" alt="">
   <img src="sekil4.jpg" alt="">
 </div>
+.gallery img {
+  width: 100% !important;       
+  height: 300px !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .gallery {
   display: grid;
   grid-template-columns: 1fr 1fr; /* 2 sütun (yan-yana 2 şəkil) */
@@ -210,7 +219,7 @@
 .gallery img {
   width: 100%;
   height: 300px;
-  object-fit: cover; /* şəkilləri bərabər göstərir */
+  object-fit: cover; 
   border-radius: 8px;
 }
 
