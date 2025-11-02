@@ -193,16 +193,27 @@
     Sürətli və etibarlı evakuator xidməti!
   </div>
 
-  <div class="slideshow-container">
-    <img class="slide" src="IMG-20250327-WA0001.jpg" alt="Evakuator 1">
-    <img class="slide" src="IMG-20250327-WA0005.jpg" alt="Evakuator 2">
-    <img class="slide" src="IMG-20250327-WA0003.jpg" alt="Evakuator 3"> 
-    <img class="slide" src="IMG-20250327-WA0006.jpg" alt="Evakuator 4">
-    <img class="slide" src="IMG-20250327-WA0008.jpg" alt="Evakuator 5">
-    <img class="slide" src="IMG-20250327-WA0004.jpg" alt="Evakuator 6">
-    <img class="slide" src="IMG-20250425-WA0024.jpg" alt="Evakuator 7">
-    <img class="slide" src="IMG-20250609-WA0005.jpg" alt="Evakuator 8">
-  </div>
+  <div class="gallery">
+  <img src="sekil1.jpg" alt="">
+  <img src="sekil2.jpg" alt="">
+  <img src="sekil3.jpg" alt="">
+  <img src="sekil4.jpg" alt="">
+</div>
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 sütun (yan-yana 2 şəkil) */
+  gap: 10px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.gallery img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover; /* şəkilləri bərabər göstərir */
+  border-radius: 8px;
+}
+
 
   <div class="services">
     <h2>Xidmətlərimiz</h2>
