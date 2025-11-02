@@ -192,33 +192,59 @@
   <div class="banner">
     Sürətli və etibarlı evakuator xidməti!
   </div>
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2x2 Şəkil Düzülüşü</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f8f8f8;
+    margin: 40px 20px;
+    text-align: center;
+  }
 
- <div class="photo-grid">
+  h2 {
+    margin-bottom: 20px;
+  }
+
+  .photo-grid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .photo-grid img {
+    width: 100% !important;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    border-radius: 6px;
+  }
+
+  @media (max-width: 600px) {
+    .photo-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h2>2×2 Şəkil Düzülüşü</h2>
+
+<div class="photo-grid">
   <img src="IMG-20250327-WA0001.jpg" alt="Şəkil 1">
   <img src="IMG-20250327-WA0005.jpg" alt="Şəkil 2">
   <img src="IMG-20251028-WA0066.jpg" alt="Şəkil 3">
   <img src="IMG-20251031-WA0177.jpg" alt="Şəkil 4">
 </div>
- .photo-grid {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  max-width: 800px;
-  margin: auto;
-}
 
-.photo-grid img {
-  width: 100% !important;
-  height: 300px;
-  object-fit: cover;
-  display: block;
-  border-radius: 6px;
-}
-@media (max-width: 600px) {
-  .photo-grid {
-    grid-template-columns: 1fr;
-  }
-}
+</body>
 
 
   <div class="services">
