@@ -196,7 +196,6 @@
 <style>
   body {
     font-family: Arial, sans-serif;
-    background: #f8f8f8;
     margin: 40px 20px;
     text-align: center;
   }
@@ -227,10 +226,9 @@
     }
   }
 </style>
-</head>
 <body>
 
-<h2>2×2 Şəkil Düzülüşü</h2>
+<h2>Xidmətlərimiz</h2>
 
 <div class="photo-grid">
   <img src="IMG-20250327-WA0001.jpg" alt="Şəkil 1">
