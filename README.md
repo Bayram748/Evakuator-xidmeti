@@ -199,28 +199,6 @@
   <img src="IMG-20251028-WA0066.jpg" alt="">
   <img src="IMG-20251031-WA0177.jpg" alt="">
 </div>
-.gallery {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  max-width: 800px;
-  margin: auto;
-}
-
-.gallery img {
-  width: 100%;
-  height: 300px;
-  object-fit: cover; 
-  border-radius: 8px;
-}
-.gallery {
-  display: grid !important;          
-  grid-template-columns: 1fr 1fr;   
-  gap: 10px !important;
-  max-width: 800px;
-  margin: auto;
-}
-
 
   <div class="services">
     <h2>Xidmətlərimiz</h2>
