@@ -210,7 +210,7 @@
 
 .gallery {
   display: grid;
-  grid-template-columns: 1fr 1fr; /* 2 sütun (yan-yana 2 şəkil) */
+  grid-template-columns: 1fr 1fr;
   gap: 10px;
   max-width: 800px;
   margin: auto;
