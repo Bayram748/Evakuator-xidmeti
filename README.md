@@ -195,7 +195,7 @@
 
   <div class="gallery">
   <img src="IMG-20250327-WA0001.jpg" alt="">
-  <img src="sekil2.jpg" alt="">
+  <img src="IMG-20250327-WA0005.jpg" alt="">
   <img src="sekil3.jpg" alt="">
   <img src="sekil4.jpg" alt="">
 </div>
