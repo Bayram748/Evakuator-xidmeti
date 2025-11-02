@@ -193,12 +193,33 @@
     Sürətli və etibarlı evakuator xidməti!
   </div>
 
-  <div class="gallery">
-  <img src="IMG-20250327-WA0001.jpg" alt="">
-  <img src="IMG-20250327-WA0005.jpg" alt="">
-  <img src="IMG-20251028-WA0066.jpg" alt="">
-  <img src="IMG-20251031-WA0177.jpg" alt="">
+ <div class="photo-grid">
+  <img src="IMG-20250327-WA0001.jpg" alt="Şəkil 1">
+  <img src="IMG-20250327-WA0005.jpg" alt="Şəkil 2">
+  <img src="IMG-20251028-WA0066.jpg" alt="Şəkil 3">
+  <img src="IMG-20251031-WA0177.jpg" alt="Şəkil 4">
 </div>
+ .photo-grid {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.photo-grid img {
+  width: 100% !important;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+  border-radius: 6px;
+}
+@media (max-width: 600px) {
+  .photo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 
   <div class="services">
     <h2>Xidmətlərimiz</h2>
