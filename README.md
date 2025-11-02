@@ -181,7 +181,7 @@
 <body>
 <body>
 
-<header style="text-align: center; padding: 20px;">
+
   <img src="Evakuator1.jpg" alt="Evakuator Xidməti Gəncə" style="height: fullpx;">
 </header>
   <header>
