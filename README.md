@@ -221,15 +221,15 @@
 <section style="padding: 20px; max-width: 800px; margin: auto; text-align: center;">
   <h2>Haqqımızda</h2>
   <p>
-    <strong>Tez Yardım Evakuator</strong> olaraq, Gəncə və ətraf bölgələrdə və Qarabağda operativ və etibarlı evakuator xidməti təqdim edirik.
+    <strong>Tez Yardım Evakuator</strong> olaraq, Gəncə və ətraf bölgələrdə operativ və etibarlı Evakuator və Forklift (Avtokar) xidməti təqdim edirik.
     Məqsədimiz sürücülərə ehtiyac anında vaxtında və təhlükəsiz şəkildə yardım etməkdir.
   </p>
   <p>
     Biz sizin güvəninizə layiq olmaq üçün çalışırıq. Sürətli reaksiya, münasib qiymət və peşəkar yanaşma ilə hər zaman xidmətinizdəyik.
-    Xidmətimiz günün 24 saatı aktivdir.
+    Xidmətimiz 7 gün 24 saat aktivdir.
   </p>
   <p>
-    Əgər avtomobiliniz yolda qalıbsa və yardıma ehtiyacınız varsa – biz buradayıq. Sadəcə zəng edin!
+    Hər növ yükün qaldırılması və daşınması. Peşəkar operatorlar, münasib qiymətlər, 24/7 xidmət. Zavod, anbar və tikinti sahələri üçün ideal seçim.
   </p>
 </section>
   <footer>
