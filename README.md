@@ -182,7 +182,7 @@
 <body>
 
 <header style="text-align: center; padding: 20px;">
-  <img src="Evakuator1.png" alt="Evakuator Xidməti Gəncə" style="height: fullpx;">
+  <img src="Evakuator1.jpg" alt="Evakuator Xidməti Gəncə" style="height: fullpx;">
 </header>
   <header>
     <h1>Tez Yardım Evakuator</h1>
