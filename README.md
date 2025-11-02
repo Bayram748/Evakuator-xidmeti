@@ -222,6 +222,13 @@
   object-fit: cover; 
   border-radius: 8px;
 }
+.gallery {
+  display: grid !important;          
+  grid-template-columns: 1fr 1fr;   
+  gap: 10px !important;
+  max-width: 800px;
+  margin: auto;
+}
 
 
   <div class="services">
